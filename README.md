@@ -13,6 +13,7 @@ Front-end developer
 
 
 
+
 <h2>🔥 Tech stack</h2>
 
 <!-- General -->
@@ -129,10 +130,7 @@ Front-end developer
       <img src="https://mui.com/static/logo.png" width="40" height="40" alt="MUI"/><br/>
       <sub>MUI</sub>
     </td>
-  
-  </tr>
-  <tr>
-    <td align="center" width="80">
+   <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br/>
       <sub>Bootstrap</sub>
     </td>
@@ -151,25 +149,11 @@ Front-end developer
     <td align="center" width="80">
       <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind"/><br/>
       <sub>Tailwind</sub>
-    </td></tr>
+    </td>
+  </tr>
+
 </table>
 
 
 
 
-
-
-<!--
-**MagaFreelancer/MagaFreelancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
