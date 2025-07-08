@@ -12,8 +12,7 @@ Front-end developer
 </ul>
 
 
-<a href="https://www.github.com/MagaFreelancer" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MagaFreelancer?logo=github&style=for-the-badge&color=64748b&labelColor=1c1917" /></a>
+
 <h2>🔥 Tech stack</h2>
 
 <!-- General -->
